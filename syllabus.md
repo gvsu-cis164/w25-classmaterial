@@ -108,19 +108,13 @@ This course is subject to the GVSU policies listed at
   calendar, due dates, number of assignments, etc.
 
 ### Programming Exercises
-Each week there will be at least one programming excersie* Labs must be completed with your assigned partner.
-  Partners will be assigned in the first week based on
-  the results of a survey.
-* Most labs are designed to be finished during the dedicated
-  lab time, assuming you come prepared and have watched the
-  video lectures and completed the activities for the week.
-  Labs must be completed within 1 week (e.g., before the start of the
-  next lab class day).
-* When you finish the lab task, let the instructor know so
-  you can demo it.  If you do not complete it
-  in the lab session it is assigned, you may demo during
-  office hours, during other activity time during class periods, or during the
-  next lab.
+Roughly week there will be at least one programming excersie.
+These programming exercises are designed to give you a chance to practice
+and to reinforce the current material.
+They will be completed on PrairieLearn.
+The exact form they take will depend on the specific topic -- they may
+be finishing certain tasks in a jupyter notebook, writing a small python
+function, or completing some command line tasks.
 
 ### Tests/Quizzes (PrairieLearn)
 There will be multiple small tests/quizzes 
