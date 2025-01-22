@@ -19,8 +19,8 @@ This schedule is tentative and subject to change.
 | Week | Date          | Topics | Notes/TODOs | Programming Exercises |
 | ---- | ------------- | ------ | ------------- | ------- |
 |  01  | 01/06 - 01/10 | introduction <br> review <br> matplotlib | Finish tasks 1 and 2 in programming exercise before 01/13 class  |  [Visualizing Data with matplotlib](https://us.prairielearn.com/pl/course_instance/173335/assessment/2496830) |
-|  02  | 01/13 - 01/17 | navigating the command line <br> viewing files <br> io redirection |  |  |
-|  03  | 01/20 - 01/24 | no class 01/20 (MLK day) <br> linux utilities <br> compression <br> grep |  |  |
+|  02  | 01/13 - 01/17 | matplotlib continued, pandas intro |  | [Pandas Introduction](https://us.prairielearn.com/pl/course_instance/173335/assessment/2500430) |
+|  03  | 01/20 - 01/24 | no class 01/20 (MLK day) <br> more pandas |  | [More Pandas](https://us.prairielearn.com/pl/course_instance/173335/assessment/2504120) |
 |  04  | 01/27 - 01/31 | image processing | project ideas due (tentative) |  |
 |  05  | 02/03 - 02/07 | git |  |  |
 |  06  | 02/10 - 02/14 | bash, sed, regex |  |  |
