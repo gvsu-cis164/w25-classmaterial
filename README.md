@@ -28,8 +28,8 @@ This schedule is tentative and subject to change.
 |  08  | 02/24 - 02/28 | command line practice, practical recursion - decision tree  | [command line notes](notes/command-line.md) |  |
 |  09  | 03/03 - 03/07 | no class (spring break) |  |  |
 |  10  | 03/10 - 03/14 | git |  |  |
-|  11  | 03/17 - 03/21 | text mining | project check-in (tentative) |  |
-|  12  | 03/24 - 03/28 | image processing |  |  |
+|  11  | 03/17 - 03/21 | bash scripting | project check-in (tentative) |  |
+|  12  | 03/24 - 03/28 | image processing, text mining |  |  |
 |  13  | 03/31 - 04/04 | data structures |  |  |
 |  14  | 04/07 - 04/11 | data structures |  |  |
 |  15  | 04/14 - 04/18 | data structures | | |
