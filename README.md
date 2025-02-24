@@ -25,7 +25,7 @@ This schedule is tentative and subject to change.
 |  05  | 02/03 - 02/07 | git |  |  |
 |  06  | 02/10 - 02/14 | bash, sed, regex |  |  |
 |  07  | 02/17 - 02/21 | visualizing data |  |  |
-|  08  | 02/24 - 02/28 | text mining |  |  |
+|  08  | 02/24 - 02/28 | text mining | [command line notes](notes/command-line.md) |  |
 |  09  | 03/03 - 03/07 | no class (spring break) |  |  |
 |  10  | 03/10 - 03/14 | recursion |  |  |
 |  11  | 03/17 - 03/21 | online data processing | project check-in (tentative) |  |
