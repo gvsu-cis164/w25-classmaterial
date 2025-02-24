@@ -82,3 +82,21 @@ How to know options?
 * man pages:  `man cmdname`
   * "man" stands for "manual"
   * full manual information for each command
+
+### Globbing / Wildcards
+Sometimes you care about all files or directories that match a certain pattern.
+We can use wildcards to do this.  The wildcard character is `*`, which
+will simply represent anything at that level.
+For instance, running
+```
+ls *.csv
+```
+will list all files with the extension `.csv` in the current directory.
+Wildcards can be used at any level within a path as well,
+so for instance
+```
+ls */*.csv
+```
+would instead list any files ending with the extension `.csv` in any immediate
+subdirectory of the current directory.
+This process of using wildcards is known as globbing.
