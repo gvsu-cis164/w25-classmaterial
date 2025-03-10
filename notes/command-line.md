@@ -3,7 +3,8 @@
 ### Terminology
 * directory (linux terminology) = folder (windows / mac terminology)
 * path = directions to a specific directory
-* argument = what things a command takes
+  * chain together the different directory names by separating them with a `/`
+* argument = what things a command takes (some commands take one argument, some take two, some more still)
 
 ### Basic Commands
 
@@ -100,3 +101,7 @@ ls */*.csv
 would instead list any files ending with the extension `.csv` in any immediate
 subdirectory of the current directory.
 This process of using wildcards is known as globbing.
+
+### Helpful Notes
+* Avoid spaces in file / directory names.  Since spaces are used to separate out
+  the arguments and options, spaces in filenames or directory names will often be interpreted as multiple
