@@ -25,7 +25,7 @@ This schedule is tentative and subject to change.
 |  05  | 02/03 - 02/07 | recursion |  | [simple recursion](https://us.prairielearn.com/pl/course_instance/173335/assessment/2508225) <br> [recursion with arrays](https://us.prairielearn.com/pl/course_instance/173335/assessment/2509172)  |
 |  06  | 02/10 - 02/14 | command line introduction <br> more recursion  | [Windows users: setting up wsl](misc/wsl-guide.md) | [recursion with arrays](https://us.prairielearn.com/pl/course_instance/173335/assessment/2511581) |
 |  07  | 02/17 - 02/21 | 2D recursion |  | [recursion - nqueens](https://us.prairielearn.com/pl/course_instance/173335/assessment/2512509) |
-|  08  | 02/24 - 02/28 | command line practice, practical recursion - decision tree  | [command line notes](notes/command-line.md) |  |
+|  08  | 02/24 - 02/28 | command line practice, git  | [command line notes](notes/command-line.md) <br> [git notes](notes/git-notes.md) |  |
 |  09  | 03/03 - 03/07 | no class (spring break) |  |  |
 |  10  | 03/10 - 03/14 | git |  |  |
 |  11  | 03/17 - 03/21 | bash scripting | project check-in (tentative) |  |
